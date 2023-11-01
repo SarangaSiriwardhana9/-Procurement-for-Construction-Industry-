@@ -1,5 +1,7 @@
 # Procurement Management System for the Construction Industry
 
+I'm responsible for a specific section of the Case Study as part of the SLIIT SE Specialization, during the 3rd Year of the 2nd Semester. Our focus in this case study is on addressing the challenges associated with procurement processes within the construction industry. To tackle these issues, we've developed a web application and a mobile app. My contribution is centered on the mobile application, which is created using technologies like React-Native, NodeJS, ExpressJS, and MongoDB. This mobile app is designed to streamline and enhance the procurement procedures in construction.
+
 The Procurement Management System is a comprehensive web-based application designed to optimize and simplify procurement processes within the construction industry. This system is tailored to empower site managers, procurement staff, and external suppliers, facilitating efficient order management, streamlined approval workflows, and seamless communication.
 
 ## Features
