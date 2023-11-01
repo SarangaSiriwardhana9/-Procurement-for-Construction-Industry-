@@ -74,9 +74,9 @@ The project is organized into two primary directories:
 Contributing
 ## Contributors
 
-- Saranga (https://github.com/SarangaSiriwardhana9) - 
-- Imesh(https://github.com/ImeshR) -
-"https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/5311b73e-202a-4bcf-9625-74b5f02dedba" 
+- Saranga (https://github.com/SarangaSiriwardhana9) 
+- Imesh(https://github.com/ImeshR) 
+
 <table>
   <tr>
     <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/5311b73e-202a-4bcf-9625-74b5f02dedba" width="200" height="410"></td>
