@@ -72,6 +72,7 @@ The project is organized into two primary directories:
 -Socket.IO: Facilitating real-time communication and notifications.
 -Navigation Container: Streamlining navigation between app screens.
 Contributing
+
 ## Contributors
 
 - Saranga (https://github.com/SarangaSiriwardhana9) 
