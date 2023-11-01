@@ -76,11 +76,11 @@ Contributing
 
 - Saranga (https://github.com/SarangaSiriwardhana9) - 
 - Imesh(https://github.com/ImeshR) -
-
+"https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/5311b73e-202a-4bcf-9625-74b5f02dedba" 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/911797d3-273d-445e-8b28-cbad07c7af7e" width="200" height="410"></td>
     <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/5311b73e-202a-4bcf-9625-74b5f02dedba" width="200" height="410"></td>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/911797d3-273d-445e-8b28-cbad07c7af7e"width="200" height="410"></td>
     <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/37887476-a7f7-434d-8e47-8cac7437ece5" width="200" height="410"></td>
   </tr>
   <tr>
