@@ -57,4 +57,48 @@ The order life cycle is a core component of this system, ensuring orders are pro
 - If accepted, suppliers fulfill the order through single or multiple deliveries.
 - After order completion, procurement staff manage invoices and goods receipts.
 
+
+##Project Structure
+The project is organized into two primary directories:
+
+-Backend: Home to the Node.js server, Express.js, and MongoDB configurations.
+-Frontend: Housing the React Native mobile app code.
+
+##Technologies Used
+
+-React Native: Empowering the mobile app's front-end development.
+-Node.js and Express.js: Orchestrating the server-side logic and API endpoints.
+-MongoDB: Serving as the database for storing and managing procurement data.
+-Socket.IO: Facilitating real-time communication and notifications.
+-Navigation Container: Streamlining navigation between app screens.
+Contributing
+## Contributors
+
+- Saranga (https://github.com/SarangaSiriwardhana9) - 
+- Imesh(https://github.com/ImeshR) -
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/911797d3-273d-445e-8b28-cbad07c7af7e" width="200" height="410"></td>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/5311b73e-202a-4bcf-9625-74b5f02dedba" width="200" height="410"></td>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/37887476-a7f7-434d-8e47-8cac7437ece5" width="200" height="410"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/7aabe37a-46a9-4496-b79f-0328931281cc" width="200" height="410"></td>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/0473755d-4a90-43af-93a3-98468a553d2e" width="200" height="410"></td>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/6826229c-ea62-49b2-9b3e-e2aad842626b" width="200" height="410"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/4a862010-4298-4ee0-8f9c-262201c681fa" width="200" height="410"></td>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/9c2b19bc-9d9f-4f82-8a19-eed5d9f38727" width="200" height="410"></td>
+    <td align="center"><img src="https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/5da3564f-e14f-4592-81b1-a5ddb96464f9" width="200" height="410"></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 This system simplifies and enhances procurement processes within the construction industry, promoting efficient order management, approval workflows, and collaborative communication among site managers, procurement staff, and suppliers.
